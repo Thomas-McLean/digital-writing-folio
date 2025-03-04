@@ -21,3 +21,11 @@ Select one work from each volume that you read and for each write:
 
 * What makes the work a piece of digital writing
 * A personal response (whether you liked it, how it made you feel &c)
+
+Volume 1: Soliloquy by Kenneth Goldsmith
+
+This piece involves a series of writings, each of which apppears initially as an almost blank page. As you move your cursor around the piece is revealed in tiny chunks, disappearing again after you move away from them. I find this to be an interesting premise, but I didn't stay to read the pieces in their entirety. Perhaps I will another time. 
+
+Volume 2: Ah by K. Michel and Dirk Vis
+
+This 
