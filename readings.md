@@ -28,4 +28,12 @@ This piece involves a series of writings, each of which apppears initially as an
 
 Volume 2: Ah by K. Michel and Dirk Vis
 
-This 
+This scrolling piece of digital writing offers musings on Einstein and other seemingly unrelated topics, accompanied by written representations of the speaker's breathing and singing. I think that there might be ways to display this work in a more analogue format, but you'd undoubtedly miss a part of the piece's natural flow. I thought it was quite an ijntersting exploration of the stream of consciousness.
+
+Volume 3: Loss, Undersea by D. Fox Harrell
+
+Unfortunately I wasn't able to find an interactive version of this project, and watched a video of someone else interacting with it instead. Still, I think I was able to experience quite an interesting work. Th etext is somewhat gamified, following the life of some sort of underwater creature, where the "reader" makes decisions regarding the thing's life, and poetry is generated in response to their actions. It's very strange, almost inhuman, and the music an integral part of the experience (and just as weird as everything else that's going on).
+
+Volume 4: Writers Are Not Strangers by Lynda Clark
+
+This piece of interactive fiction asks the reader to work with (or against) the writer in the progression of the story, providing some details and changing events to build a story. It feels similar to reading a chose-your-own-adventure book, but with a different sort of agency, and a closer connection the writer, as they will sometimes address you directly, in real time. I didn't reach the end (or an ending) because it seemed quite long, but I'd be willing to revisit it. 
