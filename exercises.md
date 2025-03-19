@@ -18,3 +18,26 @@ I intend to read and take some notes on the week 1 readings either tonight or wi
 - My remix of Nick Monfort's 'Taroko Gorge' focuses primarily on the lives of dropouts and disappointments. It's quite different to the original work, which primarily appears as a celebration of the natural world and the beauty of it. More anthropocentric, mainly
 - The poems are displayed in the same way, with randomly (to a degree) generated lines that scroll infinitely down the page.
 - I'd say the remix is semi-successful. It does give off a certain vibe (pathetic, maybe?) but it seems less original than the initial poem, and might have less to say
+
+### Poetry Experimentation
+
+Lipograms (writing sans 'e')
+
+I think that it is a truly horrid thing to do to work without such an important part of our mouth-sounds (which is for writing also, obviously) and so I will not do such a thing. 
+
+Writing sans 'b'
+
+This one should...ah. Well, I suppose there are some words that I have to avoid, which is okay, I can manage that. It's just  a small part, really, just one letter in our...yes, in our lexicon. I'm sure that there are many stories I could still make, working with what I have. It's a limit, of course it is, it puts a dampener on things. But if I try--oh. oops. 
+
+Mesostic
+
+I wonder if this sort of poeM
+                         Is Ever picked for a
+                          liSt
+                            Of 
+                        One'S 
+                     favouriTes? We can't know for sure, but 
+                            It has to appear on some of them, right?
+                            Can we all agree that each form needs to be loved?
+
+(If formatting breaks for this poem I'll be mildly annoyed)
