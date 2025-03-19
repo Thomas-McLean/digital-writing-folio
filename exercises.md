@@ -32,13 +32,21 @@ This one should...ah. Well, I suppose there are some words that I have to avoid,
 Mesostic
 
 I wonder if this sort of poeM
+
                          Is Ever picked for a
+                         
                           liSt
+                          
                             Of 
+                            
                         One'S 
+                        
                      favouriTes? We can't know for sure, but 
+                     
                             It has to appear on some of them, right?
+                            
                             Can we all agree that each form needs to be loved?
 
 (If formatting breaks for this poem I'll be mildly annoyed)
+
 (it broke)
