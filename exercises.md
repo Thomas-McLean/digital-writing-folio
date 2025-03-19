@@ -32,7 +32,7 @@ This one should...ah. Well, I suppose there are some words that I have to avoid,
 Mesostic
 
 I wonder if this sort of poeM
-
+                        
                          Is Ever picked for a
                          
                           liSt
