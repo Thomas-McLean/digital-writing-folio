@@ -50,3 +50,13 @@ I wonder if this sort of poeM
 (If formatting breaks for this poem I'll be mildly annoyed)
 
 (it broke)
+
+## Week 5
+
+### Thinking about the upcoming proposals
+
+Our proposals (the second round of presentations) are due near the start of May. I think I'd quite like to work in Inform for my final piece, but I'm not sure if the assignment allows that sort of deviation, as it isn't a platform we've worked on in class. Perhaps I'll ask. It's certainly the most engaged I've been in any of the mediums thus far. Inform is unlike any other coding language I've ever used, I'm enjoying it a lot.
+
+I'm sure there's plenty of research I'll need to do to be able to work towards a completed piece, there's still a lot about Inform that I'm yet to learn. I have access to all of the basic documentation for beginners, so I don't foresee it being TOO too difficult to teach myself what I need to know. I imagine the piece itself will be relatively small, contained within a few rooms, with a high degree of interactivity, as that is what's most appealing to me in this specific medium.
+
+I think planning with a flowchart is very helpful, plot-wise. I'm not yet sure if it'll be useful for the sort of object-based system that Inform uses, but there's still time to find out. I normally prefer to do the majority of my planning in my mind, with some dot-points scribbled into an open doc, but I doubt that'll be enough to take care of an interactive project like this. My memory might be good (or average, at best) but I don't trust myself to keep all those paths straight. 
