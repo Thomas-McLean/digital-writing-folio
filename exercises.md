@@ -60,3 +60,11 @@ Our proposals (the second round of presentations) are due near the start of May.
 I'm sure there's plenty of research I'll need to do to be able to work towards a completed piece, there's still a lot about Inform that I'm yet to learn. I have access to all of the basic documentation for beginners, so I don't foresee it being TOO too difficult to teach myself what I need to know. I imagine the piece itself will be relatively small, contained within a few rooms, with a high degree of interactivity, as that is what's most appealing to me in this specific medium.
 
 I think planning with a flowchart is very helpful, plot-wise. I'm not yet sure if it'll be useful for the sort of object-based system that Inform uses, but there's still time to find out. I normally prefer to do the majority of my planning in my mind, with some dot-points scribbled into an open doc, but I doubt that'll be enough to take care of an interactive project like this. My memory might be good (or average, at best) but I don't trust myself to keep all those paths straight. 
+
+## Week 6
+
+### Looking at past students' works
+
+### Snow Season by Tanna Sulzberger
+
+Snow season seems to be, from what I can tell, a relatively simple, linear work of digital writing. Sulzberger has built a digital poem, with different passages that flow on from each other following the clicking of certain highlighted words, and has chosen to explore themes of isolation, community, nature, and escape. The visuals of the piece are largely monochromatic, but the interactive words are pink, which makes them stand out more to the reader. I don't think this is the sort of work that I'd make, but I can appreciate it for what it is, and I enjoyed reading through it. Sometimes there's beauty in simplicity, you know. 
