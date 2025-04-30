@@ -85,3 +85,24 @@ I hope that the reader's momentum will be driven by a curiosity about the (initi
 ### Scope and Scale
 
 Directive will be composed of seven main rooms and two extra rooms, with the extras existing outside of the bounds of the house and only to be used to deliver expository text. The total length of the work (including the non-printed text) will be about 4000 words, with roughly half of that available to the reader in-story. I don't imagine I'll run into any more tech issues from here (at least not any that won't be easily resolved) so I think my major focus from here on out will be finalising the story of the piece, and then, obviously, implementing that. 
+
+
+##Story timeline
+
+EVENTS BEFORE THE STORY
+A company product (perhaps a sewing machine or a printer) breaks in a freak accident, harming the owner of the house that the story takes place in.
+After pursuing legal action, the woman receives a hush-money bribe from the company, an old refurbished pest-control bot that would help her out around the house. 
+Reluctantly, the woman accepts the bribe, admitting that she probably wasn’t going to do any better than that, anyway. 
+For a while, all is well. The robot performs some menial tasks around the house, and the woman settles back into her regular life, living alone. 
+One day, the woman’s cat brings a mouse into the home. During the robot’s refurbishment, its initial pest-control programming had become damaged and ignored, falling into disrepair. The robot reacts wildly to the mouse, charging and swinging its net like a weapon, and accidentally hits the woman upside the head, causing her to fall and hit her head, killing her instantly. The robot runs out of power following this event, and shuts down.
+After the robot has absorbed enough sunlight to wake up and send an SOS, an agent of the company (not you) connects to the robot and learns what has happened. Choosing to protect the interests of the company, this agent hides the body under a blanket and walks the robot through to the storage room, the only place in the house that doesn’t see any sunlight.
+Time passes. The woman’s cat still lives in the house, coming and leaving through the window in the bathroom. 
+Moths eat a hole in the curtains of the storage room, exposing the robot to sunlight again. 
+EVENTS OF THE STORY
+You connect to the robot, oblivious to what has previously happened in the house. 
+The robot moves through the house again, discovering the history of everything that has happened.
+The cat runs away from you repeatedly, and you can choose to try and capture it in a box. If you capture it, you can take it with you so that it can live a better life.
+Upon finding the body (which becomes available after you make a decision regarding the cat) the agent you play as realizes something is wrong. From here you can choose to either leave the house, (ignoring the story of the woman and taking the robot back to be repaired) search the robot’s memory to find details of what happened (only available if you’ve found all the lore dumps) or continue looking around the house.
+There are four total endings: ignore woman (with cat) , ignore woman (without cat) , uncover the backstory (with cat) and uncover the backstory (without cat). Uncovering the backstory with the cat is the intended ending, but is also the hardest to achieve, and may not be possible on the first playthrough. 
+Ultimately, this is a story about corporate overreach, “just doing your job”, and compassion. 
+
