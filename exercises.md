@@ -118,5 +118,14 @@ Upon finding the body (which becomes available after you make a decision regardi
 
 There are four total endings: ignore woman (with cat) , ignore woman (without cat) , uncover the backstory (with cat) and uncover the backstory (without cat). Uncovering the backstory with the cat is the intended ending, but is also the hardest to achieve, and may not be possible on the first playthrough.
 
-Ultimately, this is a story about corporate overreach, “just doing your job”, and compassion. 
+Ultimately, this is a story about corporate overreach, “just doing your job”, and compassion.
+
+## Week 9
+
+### Reflection on workshopping feedback:
+
+
+
+was able to show off a prerelease build of my Inform 7 work, Directive. Though the piece is still quite rough around 
+the edges, with a lot of fragmented text and stunted progression (especially later on in the piece) I was still able to present a project that 
 
