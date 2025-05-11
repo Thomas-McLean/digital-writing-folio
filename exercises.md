@@ -124,8 +124,4 @@ Ultimately, this is a story about corporate overreach, “just doing your job”
 
 ### Reflection on workshopping feedback:
 
-
-
-was able to show off a prerelease build of my Inform 7 work, Directive. Though the piece is still quite rough around 
-the edges, with a lot of fragmented text and stunted progression (especially later on in the piece) I was still able to present a project that 
-
+This week in class I was able to show off a prerelease build of my Inform 7 work, Directive. Though the piece is still quite rough around the edges, with a lot of fragmented text and stunted progression (especially later on in the piece) I was still able to present a project that had a reasonable degree of interactivity. I think I was right to be cautious about the accessibility (or lack thereof) of Inform, as some of my group members seemed to struggle quite a bit with the interface, having trouble getting past the first few prompts. As far as I'm concerned, that's probably more a problem (or a quirk) of the program than it is a problem with my own writing. Other than that, it seemed that the mai thing I needed to focus on was creating a finished experience, considering how patchy the piece is at the moment. My voice seemed to come through quite well, and the group's response to what they've seen already was relatively positive. Now it's mainly a question of doing the legwork to close it out. I've since tried to mess around with the css stylesheet a little, with limited success, but this won't be my main area of focus, as I think it's more important to concentrate on having a cohesive work. 
